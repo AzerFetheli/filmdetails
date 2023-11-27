@@ -1,0 +1,36 @@
+.Cards {
+    width: 19%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-top: 20px;
+    background-color: cadetblue;
+    position: relative;
+    align-items: center;
+}
+.Cards img {
+  width: 200px;
+  height: 200px;
+  margin:  0 auto;
+}
+.overview{
+  margin-bottom: 10px;
+  height: 100px;
+  overflow: auto;
+}
+.overview::-webkit-scrollbar {
+  width: 5px; 
+  background: #555;
+}
+.Cards h1{
+  text-align: center;
+}
+
+.Cards span{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    border: 1px solid black;
+    padding: 1px;
+    background-color: orange;
+}

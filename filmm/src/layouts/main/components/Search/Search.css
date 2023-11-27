@@ -1,0 +1,14 @@
+.Search{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.629);
+    text-align: center;
+}
+.Search input{
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.Search button{
+    width: 9%;
+    padding: 10px;
+}

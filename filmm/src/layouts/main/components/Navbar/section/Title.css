@@ -1,0 +1,33 @@
+.Title {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+.Title p {
+    width: 60%;
+    color: white;
+    margin-bottom: 10px;
+}
+.Title h3 {
+    margin-bottom: 10px;
+    color: white;
+}
+.Title h1 {
+    color: white;
+    margin-bottom: 10px;
+}
+.Title span {
+    padding: 15px;
+    border-radius: 50%;
+    border: 1px solid gainsboro;
+    display: inline-block;
+    color: white;
+}
+.Title button {
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 10px;
+}
